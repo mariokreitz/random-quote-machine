@@ -16,13 +16,13 @@ Dieses Projekt ist Teil der Zertifizierung "Front End Development Libraries" von
 1. Klone das Repository:
 
 ```bash
-git clone https://github.com/deinbenutzername/zufalls-zitat-maschine.git
+git clone https://github.com/mariokreitz/random-quote-machine.git
 ```
 
 2. Navigiere in das Projektverzeichnis:
 
 ```bash
-cd zufalls-zitat-maschine
+cd random-quote-machine
 ```
 
 3. Installiere die Abhängigkeiten:
@@ -50,7 +50,7 @@ npm run dev
 ## Credits
 
 - Dieses Projekt ist inspiriert vom Lehrplan von FreeCodeCamp.org.
-- Zitate werden von [https://type.fit/api/quotes](https://type.fit/api/quotes) abgerufen.
+- Zitate werden von [https://type.fit/api/quotes](https://type.fit/api/quotes)- by [ssokurenko](https://github.com/ssokurenko/quotes-react-app) abgerufen.
 - Icons bereitgestellt von Font Awesome.
 
 ## Lizenz
