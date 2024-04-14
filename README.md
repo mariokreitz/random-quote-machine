@@ -1,6 +1,6 @@
-# Zufalls-Zitat-Maschine
+# random-quote-machine [![Netlify Status](https://api.netlify.com/api/v1/badges/a43918b1-1162-4002-9fca-20345660ae17/deploy-status)](https://app.netlify.com/sites/random-type-fit-quotes-machine/deploys)
 
-![Vorschau der Zufalls-Zitat-Maschine](vorschau.png)
+![Vorschau der Zufalls-Zitat-Maschine](https://raw.githubusercontent.com/mariokreitz/random-quote-machine/main/src/assets/cover_quote.png)
 
 Dieses Projekt ist Teil der Zertifizierung "Front End Development Libraries" von FreeCodeCamp.org. Es handelt sich um eine einfache Webanwendung, die mit Vite und React erstellt wurde und zufällige Zitate anzeigt.
 
